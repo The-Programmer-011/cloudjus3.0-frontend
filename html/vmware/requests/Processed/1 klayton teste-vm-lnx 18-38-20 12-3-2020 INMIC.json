@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"teste-vm-lnx",
+"host":12,
+"disk":12,
+"template":1,
+"pasta":11,
+"cpu":1,
+"ram":2048,
+"user":"klayton",
+"log":"18-38-20 12-3-2020",
+"group":"INMIC"
+}

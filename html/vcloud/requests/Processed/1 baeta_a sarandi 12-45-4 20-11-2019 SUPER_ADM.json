@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"sarandi",
+"host":17,
+"disk":5,
+"template":2,
+"pasta":3,
+"cpu":1,
+"ram":1024,
+"user":"baeta_a",
+"log":"12-45-4 20-11-2019",
+"group":"SUPER_ADM"
+}

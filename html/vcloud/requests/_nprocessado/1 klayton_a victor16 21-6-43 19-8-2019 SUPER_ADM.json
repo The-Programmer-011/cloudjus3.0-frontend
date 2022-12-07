@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"victor16",
+"host":1,
+"disk":1,
+"template":2,
+"pasta":3,
+"cpu":16,
+"ram":65536,
+"user":"klayton_a",
+"log":"21-6-43 19-8-2019",
+"group":"SUPER_ADM"
+}

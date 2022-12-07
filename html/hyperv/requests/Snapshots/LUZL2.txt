@@ -1,0 +1,38 @@
+
+
+SnapshotType                : Standard
+VMId                        : 77061d6a-f7e7-4939-8cbb-4cc8389e5525
+VMName                      : LUZL2
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua2
+Id                          : f15c5322-a5e1-484e-922c-a23e2e5cc3e6
+Name                        : antes do docker
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume2\VM\LUZL2
+CreationTime                : 19/04/2018 14:23:37
+IsClustered                 : True
+SizeOfSystemFiles           : 41514
+ParentSnapshotId            : 
+ParentSnapshotName          : 
+MemoryStartup               : 8589934592
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 8589934592
+ProcessorCount              : 1
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+
+
+

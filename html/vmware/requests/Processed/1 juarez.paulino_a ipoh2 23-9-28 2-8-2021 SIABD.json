@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"ipoh2",
+"host":6,
+"disk":14,
+"template":1,
+"pasta":10,
+"cpu":4,
+"ram":8192,
+"user":"juarez.paulino_a",
+"log":"23-9-28 2-8-2021",
+"group":"SIABD"
+}

@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"faluja2",
+"host":1,
+"disk":2,
+"template":1,
+"pasta":10,
+"cpu":4,
+"ram":8192,
+"user":"klayton_a",
+"log":"20-45-29 16-3-2020",
+"group":"SUPER_ADM"
+}

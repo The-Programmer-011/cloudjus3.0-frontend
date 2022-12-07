@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"chapeco",
+"host":3,
+"disk":1,
+"template":8,
+"pasta":2,
+"cpu":1,
+"ram":8192,
+"user":"andre.pinho_a",
+"log":"20-18-13 25-1-2022",
+"group":"SUPER_ADM"
+}

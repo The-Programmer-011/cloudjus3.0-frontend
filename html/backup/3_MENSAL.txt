@@ -1,0 +1,4 @@
+dias:0;
+meses:6;
+anos:0;
+politica:FULL;

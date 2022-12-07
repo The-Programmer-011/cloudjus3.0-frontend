@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"belem",
+"host":6,
+"disk":6,
+"template":1,
+"pasta":13,
+"cpu":1,
+"ram":8192,
+"user":"andre.carvalho_a",
+"log":"1-43-20 25-7-2020",
+"group":"SEASO"
+}

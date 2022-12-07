@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"krc-certbot",
+"host":8,
+"disk":3,
+"template":2,
+"pasta":7,
+"cpu":1,
+"ram":4096,
+"user":"klayton_a",
+"log":"14-34-41 9-12-2020",
+"group":"SUPER_ADM"
+}

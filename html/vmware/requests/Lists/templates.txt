@@ -1,0 +1,6 @@
+01. Template_CentOS_7.7_2020_v2
+02. Template_Ubuntu_16_2020
+03. Template_Ubuntu_18_2022_v1
+04. Template_Ubuntu_20_2022_v1
+05. Template_Windows_Server_2012R2_v4
+06. Template_Windows_Server_2019_v1

@@ -1,0 +1,13 @@
+{
+"operation":1,
+"permission":1,
+"vm":"KRC-RKE",
+"host":3,
+"disk":2,
+"template":2,
+"cpu":2,
+"ram":8192,
+"user":"klayton_a",
+"log":"14-47-42 5-12-2019",
+"group":"SUPER_ADM"
+}

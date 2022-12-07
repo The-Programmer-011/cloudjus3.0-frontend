@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"poly-mongodb05",
+"host":11,
+"disk":12,
+"template":1,
+"pasta":7,
+"cpu":1,
+"ram":4096,
+"user":"klayton_a",
+"log":"14-32-15 12-2-2020",
+"group":"SUPER_ADM"
+}

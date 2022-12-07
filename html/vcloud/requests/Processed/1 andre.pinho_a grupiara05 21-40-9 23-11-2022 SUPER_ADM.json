@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"grupiara05",
+"host":1,
+"disk":1,
+"template":7,
+"pasta":1,
+"cpu":4,
+"ram":16384,
+"user":"andre.pinho_a",
+"log":"21-40-9 23-11-2022",
+"group":"SUPER_ADM"
+}

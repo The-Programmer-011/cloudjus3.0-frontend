@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"bangkokh",
+"host":5,
+"disk":14,
+"template":3,
+"pasta":10,
+"cpu":1,
+"ram":4096,
+"user":"frederico.pereira_a",
+"log":"12-21-26 7-12-2020",
+"group":"SIABD"
+}

@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"munique",
+"host":1,
+"disk":14,
+"template":4,
+"pasta":11,
+"cpu":2,
+"ram":16384,
+"user":"andre.carvalho_a",
+"log":"14-3-7 29-11-2022",
+"group":"SEASO"
+}

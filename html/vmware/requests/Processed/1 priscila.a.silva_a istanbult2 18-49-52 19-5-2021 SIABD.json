@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"istanbult2",
+"host":11,
+"disk":11,
+"template":1,
+"pasta":10,
+"cpu":1,
+"ram":4096,
+"user":"priscila.a.silva_a",
+"log":"18-49-52 19-5-2021",
+"group":"SIABD"
+}

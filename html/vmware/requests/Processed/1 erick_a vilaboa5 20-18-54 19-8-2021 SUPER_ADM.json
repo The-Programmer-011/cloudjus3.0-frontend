@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"vilaboa5",
+"host":6,
+"disk":1,
+"template":1,
+"pasta":7,
+"cpu":1,
+"ram":8192,
+"user":"erick_a",
+"log":"20-18-54 19-8-2021",
+"group":"SUPER_ADM"
+}

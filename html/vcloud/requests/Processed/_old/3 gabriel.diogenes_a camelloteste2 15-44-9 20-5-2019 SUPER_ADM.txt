@@ -1,0 +1,7 @@
+{
+"operation":3,
+"vm":"camelloteste2",
+"user":"gabriel.diogenes_a",
+"log":"15-44-9 20-5-2019",
+"group":"SUPER_ADM"
+}

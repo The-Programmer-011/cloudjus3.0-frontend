@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"faro",
+"host":9,
+"disk":6,
+"template":1,
+"pasta":13,
+"cpu":1,
+"ram":8192,
+"user":"andre.carvalho_a",
+"log":"20-11-11 21-8-2020",
+"group":"SEASO"
+}

@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"hanoih",
+"host":11,
+"disk":5,
+"template":5,
+"pasta":10,
+"cpu":1,
+"ram":4096,
+"user":"frederico.pereira_a",
+"log":"19-53-30 2-3-2022",
+"group":"SIABD"
+}

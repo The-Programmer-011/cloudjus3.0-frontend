@@ -1,0 +1,1 @@
+setel-aaep;setel-aam;setel-aes;setel-breeze1;setel-breeze2;setel-cm1;setel-cm2;setel-device1;setel-device2;setel-edge;setel-ems1;setel-ems2;setel-equinox;setel-mcu1;setel-mcu2;setel-media;setel-sbc1;setel-sbc2;setel-sm1;setel-sm2;setel-survey;setel-system;setel-system2;setel-webgateway;

@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"buziosp3",
+"host":4,
+"disk":1,
+"template":5,
+"pasta":5,
+"cpu":2,
+"ram":12288,
+"user":"fernando_a",
+"log":"21-11-57 20-5-2021",
+"group":"SIABD"
+}

@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"georgetown",
+"host":8,
+"disk":13,
+"template":1,
+"pasta":7,
+"cpu":1,
+"ram":4096,
+"user":"klayton_a",
+"log":"17-47-12 2-3-2020",
+"group":"SUPER_ADM"
+}

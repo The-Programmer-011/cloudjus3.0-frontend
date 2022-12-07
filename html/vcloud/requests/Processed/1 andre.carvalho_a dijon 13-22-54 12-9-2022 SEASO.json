@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"dijon",
+"host":13,
+"disk":1,
+"template":4,
+"pasta":9,
+"cpu":2,
+"ram":12288,
+"user":"andre.carvalho_a",
+"log":"13-22-54 12-9-2022",
+"group":"SEASO"
+}

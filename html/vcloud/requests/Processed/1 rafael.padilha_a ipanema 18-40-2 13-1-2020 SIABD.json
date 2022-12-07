@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"ipanema",
+"host":17,
+"disk":1,
+"template":2,
+"pasta":6,
+"cpu":4,
+"ram":10240,
+"user":"rafael.padilha_a",
+"log":"18-40-2 13-1-2020",
+"group":"SIABD"
+}

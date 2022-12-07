@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"bozano3",
+"host":8,
+"disk":13,
+"template":3,
+"pasta":12,
+"cpu":1,
+"ram":4096,
+"user":"rafael.reis_a",
+"log":"16-47-31 19-2-2020",
+"group":"NSCOR"
+}

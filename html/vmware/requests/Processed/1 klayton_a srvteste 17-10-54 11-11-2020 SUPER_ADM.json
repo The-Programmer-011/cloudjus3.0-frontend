@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"srvteste",
+"host":9,
+"disk":3,
+"template":1,
+"pasta":7,
+"cpu":1,
+"ram":2048,
+"user":"klayton_a",
+"log":"17-10-54 11-11-2020",
+"group":"SUPER_ADM"
+}

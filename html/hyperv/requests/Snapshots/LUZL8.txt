@@ -1,0 +1,38 @@
+
+
+SnapshotType                : Standard
+VMId                        : 6192def1-966c-4482-baf9-5f57ff0b2432
+VMName                      : LUZL8
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua3
+Id                          : 8428cec3-82be-43b6-b7cb-871cdc47880f
+Name                        : snap_inicial(19-14-23-22-7-2019)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume1\VM\LUZL8
+CreationTime                : 22/07/2019 18:55:03
+IsClustered                 : True
+SizeOfSystemFiles           : 39922
+ParentSnapshotId            : 
+ParentSnapshotName          : 
+MemoryStartup               : 8589934592
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 8589934592
+ProcessorCount              : 2
+RemoteFxAdapter             : 
+NetworkAdapters             : {Network Adapter}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+
+
+

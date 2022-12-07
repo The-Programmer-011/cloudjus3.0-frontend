@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"buziosn1",
+"host":20,
+"disk":1,
+"template":10,
+"pasta":3,
+"cpu":1,
+"ram":4096,
+"user":"andre.pinho_a",
+"log":"20-40-55 10-10-2022",
+"group":"SUPER_ADM"
+}

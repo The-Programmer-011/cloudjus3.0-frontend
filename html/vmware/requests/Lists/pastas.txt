@@ -1,0 +1,14 @@
+01. Discovered virtual machine
+02. pcf_templates
+03. pcf_vms
+04. Templates
+05. VMs_DIGITAL
+06. VMs_NPTRI
+07. VMs_Parceiros-Externos
+08. VMs_SEAIN
+09. VMs_SEGSR
+10. VMs_SETEL
+11. VMs_SIABD
+12. VMs_SIMIC
+13. VMs_SSCO
+14. VMs_SSCPC

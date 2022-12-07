@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"deli3",
+"host":1,
+"disk":1,
+"template":1,
+"pasta":5,
+"cpu":2,
+"ram":4096,
+"user":"juarez.paulino_a",
+"log":"21-56-15 10-2-2022",
+"group":"SIABD"
+}

@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"taquara",
+"host":6,
+"disk":12,
+"template":3,
+"pasta":11,
+"cpu":4,
+"ram":16384,
+"user":"fabio.silva_a",
+"log":"21-14-0 25-5-2020",
+"group":"INMIC"
+}

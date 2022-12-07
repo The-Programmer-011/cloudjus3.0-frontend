@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"grupiara01",
+"host":20,
+"disk":1,
+"template":7,
+"pasta":1,
+"cpu":8,
+"ram":32768,
+"user":"geancarlo.vinhal_a",
+"log":"17-54-34 23-11-2022",
+"group":"STFDIGITAL"
+}

@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"botucatu16",
+"host":5,
+"disk":1,
+"template":5,
+"pasta":1,
+"cpu":1,
+"ram":8192,
+"user":"flavioh_a",
+"log":"18-0-49 9-8-2021",
+"group":"STFDIGITAL"
+}

@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"dubai",
+"host":17,
+"disk":1,
+"template":1,
+"pasta":3,
+"cpu":1,
+"ram":8192,
+"user":"klayton_a",
+"log":"18-55-6 29-1-2020",
+"group":"SUPER_ADM"
+}

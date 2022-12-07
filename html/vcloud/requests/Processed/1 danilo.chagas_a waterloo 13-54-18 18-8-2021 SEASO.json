@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"waterloo",
+"host":5,
+"disk":1,
+"template":1,
+"pasta":8,
+"cpu":1,
+"ram":4096,
+"user":"danilo.chagas_a",
+"log":"13-54-18 18-8-2021",
+"group":"SEASO"
+}

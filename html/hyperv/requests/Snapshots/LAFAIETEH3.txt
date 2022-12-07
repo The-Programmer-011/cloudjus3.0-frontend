@@ -1,0 +1,149 @@
+
+
+SnapshotType                : Standard
+VMId                        : c7e962e4-eb15-4e49-8a54-7e29bfe04438
+VMName                      : LAFAIETEH3
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : paranhos4
+Id                          : 549da049-788e-4100-96c8-e03a71a5df40
+Name                        : ANTESDEATUALIZAROWORDPRESS(16-38-3-22-1-2019)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume3\VM\LAFAIETEH3
+CreationTime                : 22/01/2019 16:39:13
+IsClustered                 : True
+SizeOfSystemFiles           : 43424
+ParentSnapshotId            : 
+ParentSnapshotName          : 
+MemoryStartup               : 8589934592
+DynamicMemoryEnabled        : False
+MemoryMinimum               : 536870912
+MemoryMaximum               : 1099511627776
+ProcessorCount              : 2
+RemoteFxAdapter             : 
+NetworkAdapters             : {Network Adapter}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at 
+                              location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at 
+                              location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair 
+                              Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : c7e962e4-eb15-4e49-8a54-7e29bfe04438
+VMName                      : LAFAIETEH3
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : paranhos4
+Id                          : 61240a06-e9dd-4c18-be84-110670b304ea
+Name                        : ANTESDEATUALIZAROWORDPRESS(16-43-55-22-1-2019)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume3\VM\LAFAIETEH3
+CreationTime                : 22/01/2019 16:44:44
+IsClustered                 : True
+SizeOfSystemFiles           : 43424
+ParentSnapshotId            : 549da049-788e-4100-96c8-e03a71a5df40
+ParentSnapshotName          : ANTESDEATUALIZAROWORDPRESS(16-38-3-22-1-2019)
+MemoryStartup               : 8589934592
+DynamicMemoryEnabled        : False
+MemoryMinimum               : 536870912
+MemoryMaximum               : 1099511627776
+ProcessorCount              : 2
+RemoteFxAdapter             : 
+NetworkAdapters             : {Network Adapter}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at 
+                              location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at 
+                              location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair 
+                              Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : c7e962e4-eb15-4e49-8a54-7e29bfe04438
+VMName                      : LAFAIETEH3
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : paranhos4
+Id                          : 4589d153-2510-41f8-b181-9ed6150c5747
+Name                        : AntesdaatualizaÃ§Ã£oPHP5.6(14-19-44-25-1-2019)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume3\VM\LAFAIETEH3
+CreationTime                : 25/01/2019 14:19:48
+IsClustered                 : True
+SizeOfSystemFiles           : 43424
+ParentSnapshotId            : 61240a06-e9dd-4c18-be84-110670b304ea
+ParentSnapshotName          : ANTESDEATUALIZAROWORDPRESS(16-43-55-22-1-2019)
+MemoryStartup               : 8589934592
+DynamicMemoryEnabled        : False
+MemoryMinimum               : 536870912
+MemoryMaximum               : 1099511627776
+ProcessorCount              : 2
+RemoteFxAdapter             : 
+NetworkAdapters             : {Network Adapter}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at 
+                              location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at 
+                              location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair 
+                              Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : c7e962e4-eb15-4e49-8a54-7e29bfe04438
+VMName                      : LAFAIETEH3
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : paranhos4
+Id                          : 78c022c8-03ca-4343-8c04-7c6492c12de2
+Name                        : INSTALAR_PHP_5_3(15-5-24-25-1-2019)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume3\VM\LAFAIETEH3
+CreationTime                : 25/01/2019 15:06:06
+IsClustered                 : True
+SizeOfSystemFiles           : 43424
+ParentSnapshotId            : 61240a06-e9dd-4c18-be84-110670b304ea
+ParentSnapshotName          : ANTESDEATUALIZAROWORDPRESS(16-43-55-22-1-2019)
+MemoryStartup               : 8589934592
+DynamicMemoryEnabled        : False
+MemoryMinimum               : 536870912
+MemoryMaximum               : 1099511627776
+ProcessorCount              : 2
+RemoteFxAdapter             : 
+NetworkAdapters             : {Network Adapter}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at 
+                              location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at 
+                              location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair 
+                              Exchange, Shutdown...}
+
+
+
+

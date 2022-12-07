@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"bali",
+"host":9,
+"disk":1,
+"template":8,
+"pasta":1,
+"cpu":2,
+"ram":16384,
+"user":"frederico.pereira_a",
+"log":"12-12-17 11-4-2022",
+"group":"SIABD"
+}

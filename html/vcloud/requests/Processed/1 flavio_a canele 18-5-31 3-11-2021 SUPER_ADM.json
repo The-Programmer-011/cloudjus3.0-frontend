@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"canele",
+"host":2,
+"disk":1,
+"template":8,
+"pasta":1,
+"cpu":4,
+"ram":16384,
+"user":"flavio_a",
+"log":"18-5-31 3-11-2021",
+"group":"SUPER_ADM"
+}

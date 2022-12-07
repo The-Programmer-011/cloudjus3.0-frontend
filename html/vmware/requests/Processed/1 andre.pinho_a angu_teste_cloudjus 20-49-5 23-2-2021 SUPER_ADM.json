@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"angu_teste_cloudjus",
+"host":11,
+"disk":4,
+"template":1,
+"pasta":7,
+"cpu":1,
+"ram":2048,
+"user":"andre.pinho_a",
+"log":"20-49-5 23-2-2021",
+"group":"SUPER_ADM"
+}

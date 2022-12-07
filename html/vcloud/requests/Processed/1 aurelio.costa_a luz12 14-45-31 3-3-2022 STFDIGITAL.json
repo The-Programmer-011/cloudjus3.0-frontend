@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"luz12",
+"host":8,
+"disk":1,
+"template":5,
+"pasta":1,
+"cpu":2,
+"ram":12288,
+"user":"aurelio.costa_a",
+"log":"14-45-31 3-3-2022",
+"group":"STFDIGITAL"
+}

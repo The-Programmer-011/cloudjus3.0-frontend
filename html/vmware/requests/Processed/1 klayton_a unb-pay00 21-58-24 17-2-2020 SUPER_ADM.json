@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"unb-pay00",
+"host":9,
+"disk":13,
+"template":1,
+"pasta":7,
+"cpu":1,
+"ram":4096,
+"user":"klayton_a",
+"log":"21-58-24 17-2-2020",
+"group":"SUPER_ADM"
+}

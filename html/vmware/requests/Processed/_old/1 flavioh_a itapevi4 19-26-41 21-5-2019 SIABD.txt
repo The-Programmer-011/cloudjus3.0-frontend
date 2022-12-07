@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"itapevi4",
+"host":12,
+"disk":23,
+"template":2,
+"pasta":1,
+"cpu":4,
+"ram":16384,
+"user":"flavioh_a",
+"log":"19-26-41 21-5-2019",
+"group":"SIABD"
+}

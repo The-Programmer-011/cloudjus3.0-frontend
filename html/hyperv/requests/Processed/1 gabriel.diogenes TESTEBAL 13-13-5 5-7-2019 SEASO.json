@@ -1,0 +1,13 @@
+{
+"operation":1,
+"permission":1,
+"vm":"TESTEBAL",
+"host":8,
+"disk":2,
+"template":1,
+"cpu":1,
+"ram":2048,
+"user":"gabriel.diogenes",
+"log":"13-13-5 5-7-2019",
+"group":"SEASO"
+}

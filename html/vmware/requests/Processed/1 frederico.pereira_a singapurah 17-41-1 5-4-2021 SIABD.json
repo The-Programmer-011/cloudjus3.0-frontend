@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"singapurah",
+"host":10,
+"disk":14,
+"template":1,
+"pasta":10,
+"cpu":1,
+"ram":4096,
+"user":"frederico.pereira_a",
+"log":"17-41-1 5-4-2021",
+"group":"SIABD"
+}

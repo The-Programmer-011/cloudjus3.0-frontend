@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"cajamar09",
+"host":11,
+"disk":3,
+"template":3,
+"pasta":5,
+"cpu":1,
+"ram":8192,
+"user":"moacir.m.junior_a",
+"log":"19-33-2 25-2-2021",
+"group":"STFDIGITAL"
+}

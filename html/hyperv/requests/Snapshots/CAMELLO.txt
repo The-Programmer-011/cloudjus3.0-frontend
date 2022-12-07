@@ -1,0 +1,41 @@
+
+
+SnapshotType                : Standard
+VMId                        : 3641ae23-6d45-4461-87c8-428e80b705a3
+VMName                      : CAMELLO
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : paranhos3
+Id                          : 8f4a27d4-9326-4a9f-afd3-9759b3968fec
+Name                        : V2.4.4(16-3-53-23-4-2019)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume3\VM\CAMELLO
+CreationTime                : 23/04/2019 15:52:46
+IsClustered                 : True
+SizeOfSystemFiles           : 41362
+ParentSnapshotId            : 
+ParentSnapshotName          : 
+MemoryStartup               : 4294967296
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 4294967296
+ProcessorCount              : 1
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at 
+                              location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at 
+                              location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair 
+                              Exchange, Shutdown...}
+
+
+
+

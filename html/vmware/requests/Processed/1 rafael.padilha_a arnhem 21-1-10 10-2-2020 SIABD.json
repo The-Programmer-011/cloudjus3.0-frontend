@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"arnhem",
+"host":11,
+"disk":14,
+"template":1,
+"pasta":10,
+"cpu":2,
+"ram":16384,
+"user":"rafael.padilha_a",
+"log":"21-1-10 10-2-2020",
+"group":"SIABD"
+}

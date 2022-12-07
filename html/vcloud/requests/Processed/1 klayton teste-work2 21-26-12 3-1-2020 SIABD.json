@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"teste-work2",
+"host":17,
+"disk":1,
+"template":1,
+"pasta":6,
+"cpu":1,
+"ram":2048,
+"user":"klayton",
+"log":"21-26-12 3-1-2020",
+"group":"SIABD"
+}

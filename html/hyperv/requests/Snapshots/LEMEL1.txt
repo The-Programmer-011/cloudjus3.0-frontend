@@ -1,0 +1,38 @@
+
+
+SnapshotType                : Standard
+VMId                        : e0a3b6c1-a708-4866-9171-3dd64a522890
+VMName                      : LEMEL1
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua4
+Id                          : 2933587a-1ec7-4267-a736-3593b05fdeff
+Name                        : snap-pre-atualz-19122019(12-45-32-19-12-2019)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume2\VM\LEMEL1
+CreationTime                : 19/12/2019 09:47:01
+IsClustered                 : True
+SizeOfSystemFiles           : 42074
+ParentSnapshotId            : 
+ParentSnapshotName          : 
+MemoryStartup               : 8589934592
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 8589934592
+ProcessorCount              : 4
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+
+
+

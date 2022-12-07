@@ -1,0 +1,115 @@
+
+
+SnapshotType                : Standard
+VMId                        : 0488c765-5c3b-423c-bafd-5d3df9ccb72b
+VMName                      : LAFAIETEH5
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : paranhos1
+Id                          : 75f4884c-56bf-4a7d-8aa9-ef0f2d5d6638
+Name                        : AntesdeatualizarparaoPHP5.6.6(18-22-28-25-1-2019)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume1\VM\LAFAIETEH5
+CreationTime                : 25/01/2019 18:22:22
+IsClustered                 : True
+SizeOfSystemFiles           : 40394
+ParentSnapshotId            : 
+ParentSnapshotName          : 
+MemoryStartup               : 4294967296
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 4294967296
+ProcessorCount              : 1
+RemoteFxAdapter             : 
+NetworkAdapters             : {Network Adapter}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at 
+                              location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at 
+                              location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair 
+                              Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : 0488c765-5c3b-423c-bafd-5d3df9ccb72b
+VMName                      : LAFAIETEH5
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : paranhos1
+Id                          : 4b894fbd-d5b5-4b94-bad3-eead68362958
+Name                        : Antesdeinstalaromysqleoosticket(14-57-24-28-1-201
+                              9)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume1\VM\LAFAIETEH5
+CreationTime                : 28/01/2019 14:57:26
+IsClustered                 : True
+SizeOfSystemFiles           : 40394
+ParentSnapshotId            : 75f4884c-56bf-4a7d-8aa9-ef0f2d5d6638
+ParentSnapshotName          : AntesdeatualizarparaoPHP5.6.6(18-22-28-25-1-2019)
+MemoryStartup               : 4294967296
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 4294967296
+ProcessorCount              : 1
+RemoteFxAdapter             : 
+NetworkAdapters             : {Network Adapter}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at 
+                              location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at 
+                              location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair 
+                              Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : 0488c765-5c3b-423c-bafd-5d3df9ccb72b
+VMName                      : LAFAIETEH5
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : paranhos1
+Id                          : b7747232-066c-45a7-ab4c-ae2c7cb87956
+Name                        : AntesdeconfiguraroosTicket(14-13-58-30-1-2019)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume1\VM\LAFAIETEH5
+CreationTime                : 30/01/2019 14:13:35
+IsClustered                 : True
+SizeOfSystemFiles           : 40394
+ParentSnapshotId            : 4b894fbd-d5b5-4b94-bad3-eead68362958
+ParentSnapshotName          : Antesdeinstalaromysqleoosticket(14-57-24-28-1-201
+                              9)
+MemoryStartup               : 4294967296
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 4294967296
+ProcessorCount              : 1
+RemoteFxAdapter             : 
+NetworkAdapters             : {Network Adapter}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at 
+                              location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at 
+                              location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair 
+                              Exchange, Shutdown...}
+
+
+
+

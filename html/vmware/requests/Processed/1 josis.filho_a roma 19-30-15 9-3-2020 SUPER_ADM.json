@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"roma",
+"host":12,
+"disk":14,
+"template":1,
+"pasta":10,
+"cpu":1,
+"ram":1024,
+"user":"josis.filho_a",
+"log":"19-30-15 9-3-2020",
+"group":"SUPER_ADM"
+}

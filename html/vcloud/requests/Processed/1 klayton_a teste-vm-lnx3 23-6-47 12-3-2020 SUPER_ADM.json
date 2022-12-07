@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"teste-vm-lnx3",
+"host":15,
+"disk":1,
+"template":2,
+"pasta":3,
+"cpu":4,
+"ram":16384,
+"user":"klayton_a",
+"log":"23-6-47 12-3-2020",
+"group":"SUPER_ADM"
+}

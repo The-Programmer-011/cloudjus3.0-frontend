@@ -1,0 +1,4 @@
+Version 2.9.3
+News:
+
+Bug de pedidos travados no VMware e vCloud resolvidos.

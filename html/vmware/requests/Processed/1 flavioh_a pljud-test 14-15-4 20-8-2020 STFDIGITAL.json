@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"pljud-test",
+"host":6,
+"disk":6,
+"template":2,
+"pasta":5,
+"cpu":1,
+"ram":2048,
+"user":"flavioh_a",
+"log":"14-15-4 20-8-2020",
+"group":"STFDIGITAL"
+}

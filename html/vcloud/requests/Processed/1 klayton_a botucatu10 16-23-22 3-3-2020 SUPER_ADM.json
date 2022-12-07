@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"botucatu10",
+"host":20,
+"disk":1,
+"template":3,
+"pasta":2,
+"cpu":4,
+"ram":8192,
+"user":"klayton_a",
+"log":"16-23-22 3-3-2020",
+"group":"SUPER_ADM"
+}

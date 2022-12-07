@@ -1,0 +1,13 @@
+{
+"operation":1,
+"permission":1,
+"vm":"KRC-RANCHER8",
+"host":7,
+"disk":2,
+"template":2,
+"cpu":4,
+"ram":16384,
+"user":"klayton_a",
+"log":"17-6-3 20-12-2019",
+"group":"SUPER_ADM"
+}

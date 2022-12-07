@@ -1,0 +1,298 @@
+img.user{
+    width: 14px;
+    height: 16px;   
+}
+
+img.adm{
+    width: 14px;
+    height: 16px;    
+}
+
+table, td, th{
+    text-align: center;
+}
+
+div.table, .snap{
+    background-color:#e6e6e6;
+}
+
+img.win{
+    width: 15px;
+    height: 15px;    
+}
+img.winlogo{
+    max-height: 10%;
+    max-width: 10%;
+}
+
+
+	#console{
+		color: #ffff00;
+		border: 1px solid #ffff00;
+	}
+	#console:hover{
+		color: #66ff33;
+		border:2px solid #66ff33;
+	}
+	body{
+		background-image: url("/Assets/windows.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center;
+        font-family:"Arial";
+        color:black;
+	}
+
+    a, a:hover, a:active{
+        color:black;
+    }
+
+
+
+	ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #005ce6;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #005ce6;
+    font-family: Arial;
+}
+
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 16px;    
+    border: 1px solid #3385ff;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font: inherit;
+    margin: 0;
+    margin-right: 20px;
+    background-color: #3385ff;
+}
+
+.dropdown .startmenu {
+    font-size: 16px;    
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font: inherit;
+    margin: 0;
+    background-color: #33cc33;
+    margin-right: 20px;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: #005ce6;
+}
+
+.navbar a:hover, .dropdown:hover .startmenu {
+    background-color: #29a329;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+#logout:hover {
+    background-color: #ff3300;
+    color: black;
+}
+
+input[type=text], select {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 20%;
+    background-color: #e6e6e6;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #e6e6e6;
+}
+
+input[type=submit]:active {
+    background-color: #a6a6a6;
+}
+
+input[type=password]{
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=number]{
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.slidecontainer {
+    width: 20%;
+}
+
+.slider {
+    -webkit-appearance: none;
+    width: 20%;
+    height: 25px;
+    background: black;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+
+.slider:hover {
+    opacity: 1;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 25px;
+    height: 25px;
+    background: #e6e6e6;
+    cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    background: #e6e6e6;
+    cursor: pointer;
+}
+
+input[type=button] {
+    width: 20%;
+    background-color: #e6e6e6;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=button]:hover {
+    background-color: #e6e6e6;
+}
+
+input[type=button]:active {
+    background-color: #a6a6a6;
+}
+
+input[type=button].refresh{
+    width: 70px;
+    background-color: #e6e6e6;
+    color: black;
+    padding: 7px 10px;
+    margin: 8px 0;
+}
+
+input[type=button].refresh:hover {
+    background-color: #e6e6e6;
+}
+
+input[type=button].refresh:active {
+    background-color: #a6a6a6;
+}
+
+a.dark:hover{
+    background-color:black;
+    color: white;
+}
+
+a.stf:hover{
+    background-color:#3399ff;
+    color: white;    
+}
+
+h1{
+    text-shadow: 2px 2px 4px black;
+}
+
+h2,h3{
+    text-shadow: 2px 2px 4px #b3b3b3;
+}

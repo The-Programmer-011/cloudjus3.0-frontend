@@ -1,0 +1,8 @@
+{
+"operation":5,
+"vm":"camello_teste",
+"cpu":2,
+"user":"gabriel.diogenes_a",
+"log":"15-51-40 20-5-2019",
+"group":"SUPER_ADM"
+}

@@ -1,0 +1,13 @@
+{
+"operation":1,
+"permission":1,
+"vm":"KUBE1",
+"host":8,
+"disk":2,
+"template":2,
+"cpu":2,
+"ram":12288,
+"user":"klayton_a",
+"log":"17-25-13 13-12-2019",
+"group":"SUPER_ADM"
+}

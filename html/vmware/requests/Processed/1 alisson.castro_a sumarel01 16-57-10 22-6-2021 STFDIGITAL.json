@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"sumarel01",
+"host":11,
+"disk":1,
+"template":3,
+"pasta":5,
+"cpu":1,
+"ram":8192,
+"user":"alisson.castro_a",
+"log":"16-57-10 22-6-2021",
+"group":"STFDIGITAL"
+}

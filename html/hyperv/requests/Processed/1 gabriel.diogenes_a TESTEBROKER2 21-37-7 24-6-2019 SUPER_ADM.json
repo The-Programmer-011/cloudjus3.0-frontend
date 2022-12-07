@@ -1,0 +1,13 @@
+{
+"operation":1,
+"permission":1,
+"vm":"TESTEBROKER2",
+"host":7,
+"disk":2,
+"template":1,
+"cpu":1,
+"ram":2048,
+"user":"gabriel.diogenes_a",
+"log":"21-37-7 24-6-2019",
+"group":"SUPER_ADM"
+}

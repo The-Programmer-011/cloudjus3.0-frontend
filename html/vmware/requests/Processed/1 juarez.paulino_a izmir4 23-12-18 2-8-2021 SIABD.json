@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"izmir4",
+"host":11,
+"disk":14,
+"template":1,
+"pasta":10,
+"cpu":4,
+"ram":8192,
+"user":"juarez.paulino_a",
+"log":"23-12-18 2-8-2021",
+"group":"SIABD"
+}

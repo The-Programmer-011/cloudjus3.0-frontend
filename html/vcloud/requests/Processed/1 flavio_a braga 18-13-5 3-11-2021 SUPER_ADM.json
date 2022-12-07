@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"braga",
+"host":10,
+"disk":1,
+"template":8,
+"pasta":6,
+"cpu":4,
+"ram":16384,
+"user":"flavio_a",
+"log":"18-13-5 3-11-2021",
+"group":"SUPER_ADM"
+}

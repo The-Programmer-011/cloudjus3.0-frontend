@@ -1,0 +1,104 @@
+
+
+SnapshotType                : Standard
+VMId                        : 660c0e49-7f72-4a40-92ba-051008ee65e3
+VMName                      : WIN10
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : paranhos1
+Id                          : 3e6a9cf7-5a07-4eb1-8085-6d71bbda6af7
+Name                        : WIN10 - (4/9/2018 - 12:11:26 PM)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume2\VM\win10
+CreationTime                : 10/04/2018 17:51:28
+IsClustered                 : True
+SizeOfSystemFiles           : 41034
+ParentSnapshotId            : 
+ParentSnapshotName          : 
+MemoryStartup               : 1073741824
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 1073741824
+ProcessorCount              : 1
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : 660c0e49-7f72-4a40-92ba-051008ee65e3
+VMName                      : WIN10
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : paranhos1
+Id                          : e5117323-055c-4f11-a4f3-c642c9a8c018
+Name                        : WIN10 - (10/04/2018 - 12:12:18)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume2\VM\win10
+CreationTime                : 10/04/2018 17:51:28
+IsClustered                 : True
+SizeOfSystemFiles           : 41034
+ParentSnapshotId            : 3e6a9cf7-5a07-4eb1-8085-6d71bbda6af7
+ParentSnapshotName          : WIN10 - (4/9/2018 - 12:11:26 PM)
+MemoryStartup               : 1073741824
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 1073741824
+ProcessorCount              : 1
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : 660c0e49-7f72-4a40-92ba-051008ee65e3
+VMName                      : WIN10
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : paranhos1
+Id                          : ced92942-22fe-41b2-8077-939b59493140
+Name                        : test(31-29-19-4-2018)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume2\VM\win10
+CreationTime                : 19/04/2018 16:31:42
+IsClustered                 : True
+SizeOfSystemFiles           : 41034
+ParentSnapshotId            : e5117323-055c-4f11-a4f3-c642c9a8c018
+ParentSnapshotName          : WIN10 - (10/04/2018 - 12:12:18)
+MemoryStartup               : 8589934592
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 8589934592
+ProcessorCount              : 4
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+
+
+

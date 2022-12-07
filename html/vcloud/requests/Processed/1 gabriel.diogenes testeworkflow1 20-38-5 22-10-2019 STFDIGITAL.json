@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"testeworkflow1",
+"host":5,
+"disk":1,
+"template":1,
+"pasta":2,
+"cpu":1,
+"ram":2048,
+"user":"gabriel.diogenes",
+"log":"20-38-5 22-10-2019",
+"group":"STFDIGITAL"
+}

@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"migracao-fs",
+"host":4,
+"disk":1,
+"template":6,
+"pasta":8,
+"cpu":2,
+"ram":12288,
+"user":"raphael.sena_a",
+"log":"17-59-6 6-11-2019",
+"group":"NSCOR"
+}

@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"camellodn3",
+"host":20,
+"disk":1,
+"template":1,
+"pasta":3,
+"cpu":1,
+"ram":6144,
+"user":"klayton_a",
+"log":"22-15-9 24-11-2022",
+"group":"SUPER_ADM"
+}

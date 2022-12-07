@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"potro",
+"host":8,
+"disk":12,
+"template":1,
+"pasta":10,
+"cpu":1,
+"ram":6144,
+"user":"andre.carvalho_a",
+"log":"18-28-24 26-2-2020",
+"group":"SIABD"
+}

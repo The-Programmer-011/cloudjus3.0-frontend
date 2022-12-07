@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"krc-wpp",
+"host":12,
+"disk":13,
+"template":1,
+"pasta":7,
+"cpu":1,
+"ram":2048,
+"user":"klayton_a",
+"log":"19-9-10 17-1-2020",
+"group":"SUPER_ADM"
+}

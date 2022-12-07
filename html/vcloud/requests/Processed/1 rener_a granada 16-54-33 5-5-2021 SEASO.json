@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"granada",
+"host":13,
+"disk":1,
+"template":1,
+"pasta":8,
+"cpu":1,
+"ram":2048,
+"user":"rener_a",
+"log":"16-54-33 5-5-2021",
+"group":"SEASO"
+}

@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"camello_teste",
+"host":1,
+"disk":23,
+"template":1,
+"pasta":7,
+"cpu":1,
+"ram":1024,
+"user":"gabriel.diogenes_a",
+"log":"15-3-56 16-5-2019",
+"group":"SUPER_ADM"
+}

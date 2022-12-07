@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"veneza",
+"host":1,
+"disk":14,
+"template":1,
+"pasta":10,
+"cpu":1,
+"ram":10240,
+"user":"andre.carvalho_a",
+"log":"21-32-25 13-3-2020",
+"group":"SIABD"
+}

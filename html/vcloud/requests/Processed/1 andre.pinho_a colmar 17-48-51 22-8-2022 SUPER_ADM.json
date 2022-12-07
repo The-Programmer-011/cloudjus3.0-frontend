@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"colmar",
+"host":17,
+"disk":1,
+"template":3,
+"pasta":9,
+"cpu":2,
+"ram":16384,
+"user":"andre.pinho_a",
+"log":"17-48-51 22-8-2022",
+"group":"SUPER_ADM"
+}

@@ -1,0 +1,13 @@
+{
+"operation":1,
+"permission":1,
+"vm":"PORTO",
+"host":5,
+"disk":2,
+"template":2,
+"cpu":1,
+"ram":6144,
+"user":"andre.carvalho_a",
+"log":"19-12-45 21-2-2020",
+"group":"SIABD"
+}

@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"kabulq",
+"host":12,
+"disk":1,
+"template":1,
+"pasta":10,
+"cpu":1,
+"ram":4096,
+"user":"frederico.pereira_a",
+"log":"12-26-22 1-2-2021",
+"group":"SIABD"
+}

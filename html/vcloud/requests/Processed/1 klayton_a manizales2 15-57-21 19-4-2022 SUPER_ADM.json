@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"manizales2",
+"host":13,
+"disk":1,
+"template":1,
+"pasta":2,
+"cpu":1,
+"ram":4096,
+"user":"klayton_a",
+"log":"15-57-21 19-4-2022",
+"group":"SUPER_ADM"
+}

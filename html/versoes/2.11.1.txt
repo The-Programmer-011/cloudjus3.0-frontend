@@ -1,0 +1,4 @@
+Version 2.11.1
+News:
+
+Bug de criação de arquivos .json e super_adm.txt ao atualizar arquivos de grupos consertado.

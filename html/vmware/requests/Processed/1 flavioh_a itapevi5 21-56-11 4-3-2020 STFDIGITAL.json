@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"itapevi5",
+"host":12,
+"disk":14,
+"template":1,
+"pasta":5,
+"cpu":4,
+"ram":16384,
+"user":"flavioh_a",
+"log":"21-56-11 4-3-2020",
+"group":"STFDIGITAL"
+}

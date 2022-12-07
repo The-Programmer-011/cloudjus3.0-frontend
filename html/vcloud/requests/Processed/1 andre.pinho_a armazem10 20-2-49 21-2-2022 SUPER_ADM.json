@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"armazem10",
+"host":18,
+"disk":1,
+"template":8,
+"pasta":1,
+"cpu":4,
+"ram":16384,
+"user":"andre.pinho_a",
+"log":"20-2-49 21-2-2022",
+"group":"SUPER_ADM"
+}

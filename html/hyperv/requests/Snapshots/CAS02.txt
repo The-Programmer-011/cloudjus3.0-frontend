@@ -1,0 +1,38 @@
+
+
+SnapshotType                : Standard
+VMId                        : 2945ab67-b573-43c7-ad84-68a338609a43
+VMName                      : CAS02
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua1
+Id                          : 78516ea2-3041-401a-9b3f-c4d03eb71683
+Name                        : beforecass(15-26-51 12-7-2018)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume1\VM\CAS02
+CreationTime                : 12/07/2018 15:28:00
+IsClustered                 : True
+SizeOfSystemFiles           : 40338
+ParentSnapshotId            : 
+ParentSnapshotName          : 
+MemoryStartup               : 8589934592
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 8589934592
+ProcessorCount              : 4
+RemoteFxAdapter             : 
+NetworkAdapters             : {Network Adapter}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+
+
+

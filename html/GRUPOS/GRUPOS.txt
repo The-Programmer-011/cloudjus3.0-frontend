@@ -1,0 +1,10 @@
+G-ADM_VIRT_SAIN_ADM;SUPER_ADM;111;https://dashboard.stf.jus.br/dashboard/db/plataforma-de-virtualizacao-vmware?orgId=1;VMs_SEAIN;
+G-ADM_VIRT_DIGITAL_ADM;STFDIGITAL;232;https://dashboard.stf.jus.br/dashboard/db/resourcepool-digital?refresh=1m&orgId=1&from=now%2Fd&to=now;VMs_DIGITAL;
+G-ADM_VIRT_SIAB_ADM;SIABD;232;https://dashboard.stf.jus.br/dashboard/db/resourcepool-siabd?refresh=1m&orgId=1&from=now%2Fd&to=now;VMs_SIABD;
+G-ADM_VIRT_SETEL_OP;SETEL;335;https://dashboard.stf.jus.br/dashboard/db/resourcepool-cloudjus?refresh=1m&orgId=1&from=now%2Fd&to=now;VMs_SETEL;
+G-ADM_VIRT_SGSR_ADM;SEGSR;232;https://dashboard.stf.jus.br/dashboard/db/resourcepool-segsr?refresh=1m&orgId=1&from=now%2Fd&to=now;VMs_SEGSR;
+G-ADM_VIRT_SSCO_ADM;NSCOR;232;https://dashboard.stf.jus.br/dashboard/db/resourcepool-nscor?refresh=1m&orgId=1&from=now%2Fd&to=now;VMs_SSCO;
+G-ADM_VIRT_SEASO_ADM;SEASO;232;https://dashboard.stf.jus.br/dashboard/db/resourcepool-seaso?refresh=1m&orgId=1&from=now%2Fd&to=now;VMs_SSCPC;
+G-ADM_VIRT_NOC_OP;NOC;445;https://dashboard.stf.jus.br/dashboard/db/plataforma-de-virtualizacao-vmware?orgId=1&from=now%2Fd&to=now;VMs_SEAIN;
+G-ADM_VIRT_INMIC_ADM;INMIC;232;https://dashboard.stf.jus.br/dashboard/db/resourcepool-nscor?refresh=1m&orgId=1&from=now%2Fd&to=now;VMs_SIMIC;
+G-ADM_VIRT_NPTRI_ADM;NPTRI;232;https://dashboard.stf.jus.br/dashboard/db/resourcepool-nscor?refresh=1m&orgId=1&from=now%2Fd&to=now;VMs_NPTRI;

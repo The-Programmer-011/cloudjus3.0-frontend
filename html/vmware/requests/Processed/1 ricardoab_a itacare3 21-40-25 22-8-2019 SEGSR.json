@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"itacare3",
+"host":7,
+"disk":8,
+"template":2,
+"pasta":8,
+"cpu":2,
+"ram":8192,
+"user":"ricardoab_a",
+"log":"21-40-25 22-8-2019",
+"group":"SEGSR"
+}

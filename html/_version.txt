@@ -1,0 +1,4 @@
+Version 2.11.4
+News:
+
+Títulos atualizados em certas páginas e na sidebar.

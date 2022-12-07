@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"testemonica",
+"host":9,
+"disk":1,
+"template":1,
+"pasta":3,
+"cpu":1,
+"ram":2048,
+"user":"klayton_a",
+"log":"15-8-8 30-5-2019",
+"group":"SUPER_ADM"
+}

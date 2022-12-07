@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"capitoliod01",
+"host":1,
+"disk":23,
+"template":1,
+"pasta":5,
+"cpu":1,
+"ram":8192,
+"user":"a_aurelio.costa",
+"log":"11-35-6 7-8-2019",
+"group":"STFDIGITAL"
+}

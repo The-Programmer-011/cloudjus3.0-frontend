@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"navirain",
+"host":9,
+"disk":1,
+"template":1,
+"pasta":3,
+"cpu":1,
+"ram":1024,
+"user":"andre.pinho_a",
+"log":"19-12-12 4-10-2019",
+"group":"SUPER_ADM"
+}

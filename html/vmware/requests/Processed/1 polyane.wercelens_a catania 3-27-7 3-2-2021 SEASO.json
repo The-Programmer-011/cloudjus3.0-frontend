@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"catania",
+"host":12,
+"disk":1,
+"template":1,
+"pasta":13,
+"cpu":1,
+"ram":4096,
+"user":"polyane.wercelens_a",
+"log":"3-27-7 3-2-2021",
+"group":"SEASO"
+}

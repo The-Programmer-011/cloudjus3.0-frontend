@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"teste_aprovacao2",
+"host":12,
+"disk":10,
+"template":1,
+"pasta":13,
+"cpu":1,
+"ram":2048,
+"user":"gabriel.diogenes",
+"log":"18-27-41 7-10-2019",
+"group":"SEASO"
+}

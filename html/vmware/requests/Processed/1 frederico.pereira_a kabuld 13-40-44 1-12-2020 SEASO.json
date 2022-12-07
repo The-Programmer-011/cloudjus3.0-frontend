@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"kabuld",
+"host":9,
+"disk":3,
+"template":1,
+"pasta":13,
+"cpu":1,
+"ram":4096,
+"user":"frederico.pereira_a",
+"log":"13-40-44 1-12-2020",
+"group":"SEASO"
+}

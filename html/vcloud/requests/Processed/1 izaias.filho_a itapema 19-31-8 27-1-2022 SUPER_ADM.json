@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"itapema",
+"host":1,
+"disk":1,
+"template":8,
+"pasta":7,
+"cpu":12,
+"ram":24576,
+"user":"izaias.filho_a",
+"log":"19-31-8 27-1-2022",
+"group":"SUPER_ADM"
+}

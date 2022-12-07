@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"urucuia4",
+"host":11,
+"disk":1,
+"template":1,
+"pasta":1,
+"cpu":4,
+"ram":16384,
+"user":"geancarlo.vinhal_a",
+"log":"21-30-4 26-3-2020",
+"group":"STFDIGITAL"
+}

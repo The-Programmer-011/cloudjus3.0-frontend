@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"edr-linux",
+"host":1,
+"disk":14,
+"template":1,
+"pasta":1,
+"cpu":1,
+"ram":1024,
+"user":"erick_a",
+"log":"18-59-36 25-8-2022",
+"group":"SUPER_ADM"
+}

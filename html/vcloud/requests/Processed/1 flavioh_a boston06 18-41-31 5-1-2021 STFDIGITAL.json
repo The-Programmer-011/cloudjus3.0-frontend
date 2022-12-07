@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"boston06",
+"host":15,
+"disk":1,
+"template":4,
+"pasta":2,
+"cpu":1,
+"ram":8192,
+"user":"flavioh_a",
+"log":"18-41-31 5-1-2021",
+"group":"STFDIGITAL"
+}

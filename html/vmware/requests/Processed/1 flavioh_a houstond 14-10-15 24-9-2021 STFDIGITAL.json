@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"houstond",
+"host":12,
+"disk":13,
+"template":3,
+"pasta":5,
+"cpu":1,
+"ram":6144,
+"user":"flavioh_a",
+"log":"14-10-15 24-9-2021",
+"group":"STFDIGITAL"
+}

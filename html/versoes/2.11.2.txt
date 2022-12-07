@@ -1,0 +1,4 @@
+Version 2.11.2
+News:
+
+Bug na aprovação de pedidos no VMware e vCloud consertados.

@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"saigont",
+"host":1,
+"disk":14,
+"template":3,
+"pasta":10,
+"cpu":2,
+"ram":8192,
+"user":"luiz.alves_a",
+"log":"19-8-25 15-1-2021",
+"group":"SIABD"
+}

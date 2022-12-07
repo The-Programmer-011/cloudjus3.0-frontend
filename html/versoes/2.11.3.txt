@@ -1,0 +1,4 @@
+Version 2.11.3
+News:
+
+Botões "resetar" retirados das páginas de estado para evitar confusão para o usuário.

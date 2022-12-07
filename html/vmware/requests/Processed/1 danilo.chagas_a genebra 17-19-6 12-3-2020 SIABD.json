@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"genebra",
+"host":1,
+"disk":14,
+"template":2,
+"pasta":10,
+"cpu":1,
+"ram":16384,
+"user":"danilo.chagas_a",
+"log":"17-19-6 12-3-2020",
+"group":"SIABD"
+}

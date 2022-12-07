@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"treinadocker3",
+"host":7,
+"disk":12,
+"template":1,
+"pasta":7,
+"cpu":1,
+"ram":2048,
+"user":"andre.pinho_a",
+"log":"18-12-20 8-7-2020",
+"group":"SUPER_ADM"
+}

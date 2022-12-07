@@ -1,0 +1,1 @@
+01. vSAN_VxRail_Datastore (Espaço Livre: 147.498,35 GB)

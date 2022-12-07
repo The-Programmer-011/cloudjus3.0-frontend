@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"piura03",
+"host":16,
+"disk":1,
+"template":5,
+"pasta":3,
+"cpu":1,
+"ram":4096,
+"user":"klayton_a",
+"log":"12-13-35 4-7-2022",
+"group":"SUPER_ADM"
+}

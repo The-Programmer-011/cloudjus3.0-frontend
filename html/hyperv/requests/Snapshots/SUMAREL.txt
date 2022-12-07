@@ -1,0 +1,104 @@
+
+
+SnapshotType                : Standard
+VMId                        : ccc32158-1d76-4535-83f1-91dbb19f500d
+VMName                      : SUMAREL
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua1
+Id                          : 0e6530dd-0a50-4f30-8552-f6a1b162532e
+Name                        : PreInstSpinnaker(19-0-51 6-6-2018)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume1\VM\SUMAREL
+CreationTime                : 06/06/2018 19:01:12
+IsClustered                 : True
+SizeOfSystemFiles           : 41666
+ParentSnapshotId            : 
+ParentSnapshotName          : 
+MemoryStartup               : 5368709120
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 5368709120
+ProcessorCount              : 1
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : ccc32158-1d76-4535-83f1-91dbb19f500d
+VMName                      : SUMAREL
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua1
+Id                          : a184e576-5335-40e1-8ee3-c3f4695d1d33
+Name                        : Spinnaker_Install(18-49-55 11-6-2018)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume1\VM\SUMAREL
+CreationTime                : 11/06/2018 18:50:08
+IsClustered                 : True
+SizeOfSystemFiles           : 41666
+ParentSnapshotId            : 0e6530dd-0a50-4f30-8552-f6a1b162532e
+ParentSnapshotName          : PreInstSpinnaker(19-0-51 6-6-2018)
+MemoryStartup               : 5368709120
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 5368709120
+ProcessorCount              : 1
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : ccc32158-1d76-4535-83f1-91dbb19f500d
+VMName                      : SUMAREL
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua1
+Id                          : a98ed27a-1705-4312-8f31-638398d3cb7c
+Name                        : PreInstSpinnakerPython(20-9-47 11-6-2018)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume1\VM\SUMAREL
+CreationTime                : 11/06/2018 20:09:14
+IsClustered                 : True
+SizeOfSystemFiles           : 41666
+ParentSnapshotId            : 0e6530dd-0a50-4f30-8552-f6a1b162532e
+ParentSnapshotName          : PreInstSpinnaker(19-0-51 6-6-2018)
+MemoryStartup               : 5368709120
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 5368709120
+ProcessorCount              : 1
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+
+
+

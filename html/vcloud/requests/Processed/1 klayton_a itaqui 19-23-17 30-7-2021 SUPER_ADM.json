@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"itaqui",
+"host":1,
+"disk":1,
+"template":6,
+"pasta":7,
+"cpu":2,
+"ram":16384,
+"user":"klayton_a",
+"log":"19-23-17 30-7-2021",
+"group":"SUPER_ADM"
+}

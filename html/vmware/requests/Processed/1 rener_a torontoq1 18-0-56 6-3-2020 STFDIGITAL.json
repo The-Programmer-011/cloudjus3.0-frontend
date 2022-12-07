@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"torontoq1",
+"host":8,
+"disk":14,
+"template":1,
+"pasta":5,
+"cpu":2,
+"ram":12288,
+"user":"rener_a",
+"log":"18-0-56 6-3-2020",
+"group":"STFDIGITAL"
+}

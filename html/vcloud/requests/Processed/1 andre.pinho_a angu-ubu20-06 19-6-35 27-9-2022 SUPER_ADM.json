@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"angu-ubu20-06",
+"host":20,
+"disk":1,
+"template":7,
+"pasta":3,
+"cpu":1,
+"ram":2048,
+"user":"andre.pinho_a",
+"log":"19-6-35 27-9-2022",
+"group":"SUPER_ADM"
+}

@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"mage2n",
+"host":12,
+"disk":1,
+"template":1,
+"pasta":5,
+"cpu":2,
+"ram":12288,
+"user":"fernando_a",
+"log":"19-15-53 1-2-2022",
+"group":"SIABD"
+}

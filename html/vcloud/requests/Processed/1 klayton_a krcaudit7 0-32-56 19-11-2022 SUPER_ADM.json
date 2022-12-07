@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"krcaudit7",
+"host":20,
+"disk":1,
+"template":8,
+"pasta":3,
+"cpu":2,
+"ram":12288,
+"user":"klayton_a",
+"log":"0-32-56 19-11-2022",
+"group":"SUPER_ADM"
+}

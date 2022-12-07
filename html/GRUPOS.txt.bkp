@@ -1,0 +1,7 @@
+G-ADM_VIRT_SAIN_ADM;SUPER_ADM;11;http://dashboard.stf.jus.br/dashboard/db/plataforma-de-virtualizacao-vmware?orgId=1&from=now%2Fd&to=now;
+G-ADM_VIRT_SIAB_ADM;SIABD;32;http://dashboard.stf.jus.br/dashboard/db/resourcepool-siabd?refresh=1m&orgId=1&from=now%2Fd&to=now;
+G-ADM_VIRT_SGSR_ADM;SEGSR;40;http://dashboard.stf.jus.br/dashboard/db/resourcepool-segsr?refresh=1m&orgId=1&from=now%2Fd&to=now;
+G-ADM_VIRT_SSCO_ADM;NSCOR;40;http://dashboard.stf.jus.br/dashboard/db/resourcepool-nscor?refresh=1m&orgId=1&from=now%2Fd&to=now;
+G-ADM_VIRT_SEASO_ADM;SEASO;40;http://dashboard.stf.jus.br/dashboard/db/resourcepool-seaso?refresh=1m&orgId=1;&from=now%2Fd&to=now;
+G-ADM_VIRT_SETEL_OP;SETEL;40;http://dashboard.stf.jus.br/dashboard/db/resourcepool-setel?refresh=1m&orgId=1;&from=now%2Fd&to=now;
+G-ADM_VIRT_DIGITAL_ADM;STFDIGITAL;40;http://dashboard.stf.jus.br/dashboard/db/resourcepool-digital?refresh=1m&orgId=1&from=now%2Fd&to=now;

@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"maquina_teste",
+"host":1,
+"disk":23,
+"template":1,
+"pasta":1,
+"cpu":1,
+"ram":1024,
+"user":"gabriel.diogenes_a",
+"log":"17-11-59 20-8-2019",
+"group":"teste"
+}

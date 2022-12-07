@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"porangatu6",
+"host":8,
+"disk":1,
+"template":1,
+"pasta":3,
+"cpu":1,
+"ram":8192,
+"user":"erick_a",
+"log":"12-49-30 22-9-2022",
+"group":"SUPER_ADM"
+}

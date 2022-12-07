@@ -1,0 +1,170 @@
+
+
+SnapshotType                : Standard
+VMId                        : fad5096a-8cd8-4b34-8a1e-459b5abb8c8d
+VMName                      : LEMED
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua3
+Id                          : 2e3e07b8-0f82-4ff9-a610-1ad46fb2d46d
+Name                        : Antesdamerda(6-22-12-4-2018)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume1\VM\LEMED
+CreationTime                : 12/04/2018 15:06:19
+IsClustered                 : True
+SizeOfSystemFiles           : 42738
+ParentSnapshotId            : 
+ParentSnapshotName          : 
+MemoryStartup               : 4294967296
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 4294967296
+ProcessorCount              : 1
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : fad5096a-8cd8-4b34-8a1e-459b5abb8c8d
+VMName                      : LEMED
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua3
+Id                          : ca99f94e-0e90-49a9-abe1-7f17813576f5
+Name                        : PreAnsible(41-10-13-4-2018)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume1\VM\LEMED
+CreationTime                : 13/04/2018 15:40:59
+IsClustered                 : True
+SizeOfSystemFiles           : 42738
+ParentSnapshotId            : 2e3e07b8-0f82-4ff9-a610-1ad46fb2d46d
+ParentSnapshotName          : Antesdamerda(6-22-12-4-2018)
+MemoryStartup               : 4294967296
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 4294967296
+ProcessorCount              : 1
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : fad5096a-8cd8-4b34-8a1e-459b5abb8c8d
+VMName                      : LEMED
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua3
+Id                          : 77e3052e-2db2-4c34-89a3-fa3cd29dc5a1
+Name                        : Pre(13-31-13-4-2018)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume1\VM\LEMED
+CreationTime                : 13/04/2018 16:13:13
+IsClustered                 : True
+SizeOfSystemFiles           : 42738
+ParentSnapshotId            : ca99f94e-0e90-49a9-abe1-7f17813576f5
+ParentSnapshotName          : PreAnsible(41-10-13-4-2018)
+MemoryStartup               : 4294967296
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 4294967296
+ProcessorCount              : 1
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : fad5096a-8cd8-4b34-8a1e-459b5abb8c8d
+VMName                      : LEMED
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua3
+Id                          : 21eb183c-394e-4621-b17a-deb786502258
+Name                        : KUBE1.4.0(48-27-16-4-2018)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume1\VM\LEMED
+CreationTime                : 16/04/2018 13:30:51
+IsClustered                 : True
+SizeOfSystemFiles           : 42738
+ParentSnapshotId            : 77e3052e-2db2-4c34-89a3-fa3cd29dc5a1
+ParentSnapshotName          : Pre(13-31-13-4-2018)
+MemoryStartup               : 4294967296
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 4294967296
+ProcessorCount              : 1
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : fad5096a-8cd8-4b34-8a1e-459b5abb8c8d
+VMName                      : LEMED
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua3
+Id                          : 54fcc505-7a24-4bac-a93d-800a7b37996b
+Name                        : STFDIGITAL(47-3-19-4-2018)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume1\VM\LEMED
+CreationTime                : 19/04/2018 13:47:01
+IsClustered                 : True
+SizeOfSystemFiles           : 42738
+ParentSnapshotId            : 77e3052e-2db2-4c34-89a3-fa3cd29dc5a1
+ParentSnapshotName          : Pre(13-31-13-4-2018)
+MemoryStartup               : 4294967296
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 4294967296
+ProcessorCount              : 1
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+
+
+

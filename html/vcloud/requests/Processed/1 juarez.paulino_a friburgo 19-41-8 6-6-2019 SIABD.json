@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"friburgo",
+"host":1,
+"disk":1,
+"template":4,
+"pasta":6,
+"cpu":4,
+"ram":16384,
+"user":"juarez.paulino_a",
+"log":"19-41-8 6-6-2019",
+"group":"SIABD"
+}

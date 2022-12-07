@@ -1,0 +1,9 @@
+{
+"snapshot":1,
+"operation":1,
+"vm":"camello_teste",
+"snap":"teste(14-59-50-20-5-2019)",
+"user":"gabriel.diogenes_a",
+"log":"14-59-50 20-5-2019",
+"group":"SUPER_ADM"
+}

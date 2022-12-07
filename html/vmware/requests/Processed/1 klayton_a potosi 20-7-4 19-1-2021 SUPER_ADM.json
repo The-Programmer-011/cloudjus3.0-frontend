@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"potosi",
+"host":12,
+"disk":1,
+"template":1,
+"pasta":7,
+"cpu":1,
+"ram":4096,
+"user":"klayton_a",
+"log":"20-7-4 19-1-2021",
+"group":"SUPER_ADM"
+}

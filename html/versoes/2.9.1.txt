@@ -1,0 +1,4 @@
+Version 2.9.1
+News:
+
+Paths nas consoles VMware e vCloud apontadas para os reectivos balanceadores, dev ou prod

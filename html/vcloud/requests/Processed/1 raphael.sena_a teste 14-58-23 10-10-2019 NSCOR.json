@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"teste",
+"host":6,
+"disk":1,
+"template":6,
+"pasta":8,
+"cpu":1,
+"ram":2048,
+"user":"raphael.sena_a",
+"log":"14-58-23 10-10-2019",
+"group":"NSCOR"
+}

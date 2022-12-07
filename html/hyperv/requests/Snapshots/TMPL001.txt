@@ -1,0 +1,38 @@
+
+
+SnapshotType                : Standard
+VMId                        : 9f0d0762-ca87-4236-a92d-29a1712a5a1d
+VMName                      : TMPL001
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua2
+Id                          : f54fdae2-63ec-43c4-8001-2b18f2c60c2d
+Name                        : TMPL001 - (6/4/2018 - 4:27:17 PM)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume1\VM\TMPL001
+CreationTime                : 01/08/2018 17:04:37
+IsClustered                 : True
+SizeOfSystemFiles           : 43240
+ParentSnapshotId            : 
+ParentSnapshotName          : 
+MemoryStartup               : 4294967296
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 4294967296
+ProcessorCount              : 2
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+
+
+

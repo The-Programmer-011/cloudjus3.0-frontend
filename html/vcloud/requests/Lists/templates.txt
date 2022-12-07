@@ -1,0 +1,9 @@
+01. Template_CentOS_7.7_2020_v2
+02. Template_Oracle_Linux_7.8_v1.4_RHCK_K3.10
+03. Template_Oracle_Linux_7.8_v1.4_UEK_K3.8
+04. Template_Oracle_Linux_8.6_v1.0_UEK_K5.4
+05. Template_Ubuntu_16.04_2020
+06. Template_Ubuntu_18_2022_v1
+07. Template_Windows_Server_2012R2_v4
+08. Template_Windows_Server_2016_v1
+09. Template_Windows_Server_2019_v1

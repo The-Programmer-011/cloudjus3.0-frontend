@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"camelloteste4",
+"host":17,
+"disk":1,
+"template":1,
+"pasta":3,
+"cpu":1,
+"ram":1024,
+"user":"srv_hyperv",
+"log":"18-39-24 2-12-2019",
+"group":"SUPER_ADM"
+}

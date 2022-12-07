@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"estrela11",
+"host":17,
+"disk":1,
+"template":4,
+"pasta":3,
+"cpu":1,
+"ram":4096,
+"user":"klayton_a",
+"log":"17-30-25 30-4-2020",
+"group":"SUPER_ADM"
+}

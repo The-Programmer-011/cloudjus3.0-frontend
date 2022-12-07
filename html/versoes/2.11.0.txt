@@ -1,0 +1,6 @@
+Version 2.11
+News:
+
+Bugs na pagina super_adm corrigidos.
+Página customizada 404.
+Página customizada 403.

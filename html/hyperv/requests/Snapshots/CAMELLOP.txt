@@ -1,0 +1,38 @@
+
+
+SnapshotType                : Standard
+VMId                        : aafdbadd-985c-4a8d-b4ec-603c41c066c1
+VMName                      : CAMELLOP
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua4
+Id                          : 9ee31890-f7c4-4957-8c7b-52476f7e7e10
+Name                        : 1.0(19-12-13 4-5-2018)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume2\VM\CAMELLOP
+CreationTime                : 04/05/2018 16:12:24
+IsClustered                 : True
+SizeOfSystemFiles           : 41716
+ParentSnapshotId            : 
+ParentSnapshotName          : 
+MemoryStartup               : 2147483648
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 2147483648
+ProcessorCount              : 1
+RemoteFxAdapter             : 
+NetworkAdapters             : {Network Adapter}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+
+
+

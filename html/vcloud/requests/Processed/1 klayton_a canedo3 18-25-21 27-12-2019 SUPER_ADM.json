@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"canedo3",
+"host":17,
+"disk":1,
+"template":2,
+"pasta":3,
+"cpu":2,
+"ram":12288,
+"user":"klayton_a",
+"log":"18-25-21 27-12-2019",
+"group":"SUPER_ADM"
+}

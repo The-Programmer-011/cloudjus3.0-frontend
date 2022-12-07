@@ -1,0 +1,39 @@
+
+
+SnapshotType                : Standard
+VMId                        : 679be313-1315-45d9-9d75-d68141d078a6
+VMName                      : LAVRAST
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua1
+Id                          : 0cc76ffa-bcee-4c6d-8866-9a7ae2b0ab0d
+Name                        : testelavras(6-27-12-4-2018)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume3\VM\LAVRAST
+CreationTime                : 12/04/2018 17:06:42
+IsClustered                 : True
+SizeOfSystemFiles           : 47328
+ParentSnapshotId            : 
+ParentSnapshotName          : 
+MemoryStartup               : 4294967296
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 4294967296
+ProcessorCount              : 4
+RemoteFxAdapter             : 
+NetworkAdapters             : {Network Adapter}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0, Hard Drive on IDE controller 
+                              number 0 at location 1}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+
+
+

@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"luz03",
+"host":17,
+"disk":1,
+"template":4,
+"pasta":3,
+"cpu":4,
+"ram":8192,
+"user":"klayton_a",
+"log":"19-23-22 27-12-2019",
+"group":"STFDIGITAL"
+}

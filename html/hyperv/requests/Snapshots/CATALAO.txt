@@ -1,0 +1,170 @@
+
+
+SnapshotType                : Standard
+VMId                        : aee0a49d-8eec-4884-aeeb-beac2b92fee7
+VMName                      : CATALAO
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : paranhos1
+Id                          : ba01dd90-f513-4a20-9c27-2e9ff383fa9d
+Name                        : pre-integration-tools(23-33-11-4-2018)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume1\VM\catalao
+CreationTime                : 11/04/2018 18:23:54
+IsClustered                 : True
+SizeOfSystemFiles           : 43532
+ParentSnapshotId            : 
+ParentSnapshotName          : 
+MemoryStartup               : 2147483648
+DynamicMemoryEnabled        : False
+MemoryMinimum               : 536870912
+MemoryMaximum               : 1099511627776
+ProcessorCount              : 2
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede Herdado}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : aee0a49d-8eec-4884-aeeb-beac2b92fee7
+VMName                      : CATALAO
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : paranhos1
+Id                          : 35688a03-1234-4a9d-bd64-65ea00499210
+Name                        : CATALAO - (4/11/2018 - 2:25:47 PM)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume1\VM\catalao
+CreationTime                : 11/04/2018 18:25:58
+IsClustered                 : True
+SizeOfSystemFiles           : 43532
+ParentSnapshotId            : ba01dd90-f513-4a20-9c27-2e9ff383fa9d
+ParentSnapshotName          : pre-integration-tools(23-33-11-4-2018)
+MemoryStartup               : 2147483648
+DynamicMemoryEnabled        : False
+MemoryMinimum               : 536870912
+MemoryMaximum               : 1099511627776
+ProcessorCount              : 2
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede Herdado}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : aee0a49d-8eec-4884-aeeb-beac2b92fee7
+VMName                      : CATALAO
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : paranhos1
+Id                          : 5daad2ab-735e-4518-87f5-23160ee212fa
+Name                        : snap-preit
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume1\VM\catalao
+CreationTime                : 11/04/2018 18:26:21
+IsClustered                 : True
+SizeOfSystemFiles           : 43532
+ParentSnapshotId            : 35688a03-1234-4a9d-bd64-65ea00499210
+ParentSnapshotName          : CATALAO - (4/11/2018 - 2:25:47 PM)
+MemoryStartup               : 2147483648
+DynamicMemoryEnabled        : False
+MemoryMinimum               : 536870912
+MemoryMaximum               : 1099511627776
+ProcessorCount              : 2
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede Herdado}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : aee0a49d-8eec-4884-aeeb-beac2b92fee7
+VMName                      : CATALAO
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : paranhos1
+Id                          : 11db0fc2-e7f0-47e3-9f69-d17e26af9124
+Name                        : CATALAO - (5/18/2018 - 5:20:04 PM)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume1\VM\catalao
+CreationTime                : 18/05/2018 17:20:11
+IsClustered                 : True
+SizeOfSystemFiles           : 43532
+ParentSnapshotId            : 5daad2ab-735e-4518-87f5-23160ee212fa
+ParentSnapshotName          : snap-preit
+MemoryStartup               : 2147483648
+DynamicMemoryEnabled        : False
+MemoryMinimum               : 536870912
+MemoryMaximum               : 1099511627776
+ProcessorCount              : 1
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede Herdado}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : aee0a49d-8eec-4884-aeeb-beac2b92fee7
+VMName                      : CATALAO
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : paranhos1
+Id                          : 080e932a-7a8a-4e5c-8d92-636a89033045
+Name                        : CATALAO - (5/18/2018 - 6:56:12 PM)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume1\VM\catalao
+CreationTime                : 18/05/2018 18:56:21
+IsClustered                 : True
+SizeOfSystemFiles           : 43532
+ParentSnapshotId            : 11db0fc2-e7f0-47e3-9f69-d17e26af9124
+ParentSnapshotName          : CATALAO - (5/18/2018 - 5:20:04 PM)
+MemoryStartup               : 2147483648
+DynamicMemoryEnabled        : False
+MemoryMinimum               : 536870912
+MemoryMaximum               : 1099511627776
+ProcessorCount              : 1
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede Herdado}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+
+
+

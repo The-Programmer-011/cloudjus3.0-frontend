@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"lagamar3",
+"host":1,
+"disk":1,
+"template":1,
+"pasta":2,
+"cpu":4,
+"ram":16384,
+"user":"geancarlo.vinhal_a",
+"log":"14-44-13 19-6-2019",
+"group":"STFDIGITAL"
+}

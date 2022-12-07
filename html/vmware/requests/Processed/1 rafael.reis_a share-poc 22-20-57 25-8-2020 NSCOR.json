@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"share-poc",
+"host":9,
+"disk":6,
+"template":3,
+"pasta":12,
+"cpu":1,
+"ram":8192,
+"user":"rafael.reis_a",
+"log":"22-20-57 25-8-2020",
+"group":"NSCOR"
+}

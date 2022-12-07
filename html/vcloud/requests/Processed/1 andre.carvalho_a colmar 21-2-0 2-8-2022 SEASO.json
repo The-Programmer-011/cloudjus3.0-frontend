@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"colmar",
+"host":16,
+"disk":1,
+"template":2,
+"pasta":9,
+"cpu":2,
+"ram":12288,
+"user":"andre.carvalho_a",
+"log":"21-2-0 2-8-2022",
+"group":"SEASO"
+}

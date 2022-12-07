@@ -1,0 +1,13 @@
+{
+"operation":1,
+"permission":1,
+"vm":"LMCM",
+"host":4,
+"disk":2,
+"template":2,
+"cpu":1,
+"ram":8192,
+"user":"klayton_a",
+"log":"11-26-10 1-8-2019",
+"group":"SUPER_ADM"
+}

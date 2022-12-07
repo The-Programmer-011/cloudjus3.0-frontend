@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"genebra",
+"host":12,
+"disk":12,
+"template":2,
+"pasta":7,
+"cpu":1,
+"ram":2048,
+"user":"andre.pinho_a",
+"log":"10-39-44 13-3-2020",
+"group":"SUPER_ADM"
+}

@@ -1,0 +1,13 @@
+{
+"operation":1,
+"permission":1,
+"vm":"TREINARANCHER1",
+"host":7,
+"disk":2,
+"template":3,
+"cpu":1,
+"ram":2048,
+"user":"flavioh_a",
+"log":"17-46-15 29-11-2019",
+"group":"STFDIGITAL"
+}

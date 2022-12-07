@@ -1,0 +1,4 @@
+Version 2.9.4
+News:
+
+Bugs de permissao das maquinas nas consoles resolvidos.

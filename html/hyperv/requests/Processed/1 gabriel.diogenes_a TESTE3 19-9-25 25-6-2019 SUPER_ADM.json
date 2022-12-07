@@ -1,0 +1,13 @@
+{
+"operation":1,
+"permission":1,
+"vm":"TESTE3",
+"host":8,
+"disk":2,
+"template":1,
+"cpu":1,
+"ram":2048,
+"user":"gabriel.diogenes_a",
+"log":"19-9-25 25-6-2019",
+"group":"SUPER_ADM"
+}

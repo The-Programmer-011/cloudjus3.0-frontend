@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"frankfurt",
+"host":1,
+"disk":1,
+"template":6,
+"pasta":5,
+"cpu":6,
+"ram":24576,
+"user":"danilo.chagas_a",
+"log":"17-4-34 22-9-2021",
+"group":"SEASO"
+}

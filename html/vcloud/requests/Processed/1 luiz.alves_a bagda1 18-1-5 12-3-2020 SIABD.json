@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"bagda1",
+"host":20,
+"disk":1,
+"template":1,
+"pasta":6,
+"cpu":1,
+"ram":4096,
+"user":"luiz.alves_a",
+"log":"18-1-5 12-3-2020",
+"group":"SIABD"
+}

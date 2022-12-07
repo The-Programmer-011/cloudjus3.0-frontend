@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"istanbult",
+"host":12,
+"disk":1,
+"template":1,
+"pasta":10,
+"cpu":1,
+"ram":2048,
+"user":"luiz.alves_a",
+"log":"16-0-42 3-2-2021",
+"group":"SIABD"
+}

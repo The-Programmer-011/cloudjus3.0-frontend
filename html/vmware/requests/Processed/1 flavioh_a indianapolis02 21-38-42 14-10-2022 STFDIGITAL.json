@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"indianapolis02",
+"host":11,
+"disk":8,
+"template":3,
+"pasta":5,
+"cpu":2,
+"ram":12288,
+"user":"flavioh_a",
+"log":"21-38-42 14-10-2022",
+"group":"STFDIGITAL"
+}

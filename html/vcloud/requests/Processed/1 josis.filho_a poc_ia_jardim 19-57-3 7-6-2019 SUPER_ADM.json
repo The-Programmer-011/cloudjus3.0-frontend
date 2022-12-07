@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"poc_ia_jardim",
+"host":1,
+"disk":1,
+"template":1,
+"pasta":3,
+"cpu":1,
+"ram":1024,
+"user":"josis.filho_a",
+"log":"19-57-3 7-6-2019",
+"group":"SUPER_ADM"
+}

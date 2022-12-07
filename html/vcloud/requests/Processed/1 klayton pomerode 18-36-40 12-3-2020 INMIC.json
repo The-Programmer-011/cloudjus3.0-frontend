@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"pomerode",
+"host":20,
+"disk":1,
+"template":4,
+"pasta":7,
+"cpu":1,
+"ram":4096,
+"user":"klayton",
+"log":"18-36-40 12-3-2020",
+"group":"INMIC"
+}

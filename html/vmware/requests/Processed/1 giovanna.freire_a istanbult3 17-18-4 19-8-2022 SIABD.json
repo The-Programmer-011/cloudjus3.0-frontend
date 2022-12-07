@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"istanbult3",
+"host":12,
+"disk":3,
+"template":1,
+"pasta":10,
+"cpu":1,
+"ram":2048,
+"user":"giovanna.freire_a",
+"log":"17-18-4 19-8-2022",
+"group":"SIABD"
+}

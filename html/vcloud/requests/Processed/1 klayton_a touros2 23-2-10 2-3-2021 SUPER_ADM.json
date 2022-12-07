@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"touros2",
+"host":12,
+"disk":1,
+"template":5,
+"pasta":3,
+"cpu":1,
+"ram":6144,
+"user":"klayton_a",
+"log":"23-2-10 2-3-2021",
+"group":"SUPER_ADM"
+}

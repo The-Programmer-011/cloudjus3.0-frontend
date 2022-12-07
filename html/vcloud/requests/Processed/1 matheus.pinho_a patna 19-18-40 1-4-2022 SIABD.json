@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"patna",
+"host":17,
+"disk":1,
+"template":1,
+"pasta":5,
+"cpu":1,
+"ram":4096,
+"user":"matheus.pinho_a",
+"log":"19-18-40 1-4-2022",
+"group":"SIABD"
+}

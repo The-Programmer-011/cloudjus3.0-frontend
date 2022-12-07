@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"quatis",
+"host":6,
+"disk":1,
+"template":1,
+"pasta":6,
+"cpu":1,
+"ram":8192,
+"user":"frederico.pereira_a",
+"log":"17-13-6 17-10-2019",
+"group":"SIABD"
+}

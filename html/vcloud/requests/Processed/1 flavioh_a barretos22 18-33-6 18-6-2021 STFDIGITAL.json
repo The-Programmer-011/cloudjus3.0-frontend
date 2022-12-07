@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"barretos22",
+"host":20,
+"disk":1,
+"template":5,
+"pasta":1,
+"cpu":2,
+"ram":12288,
+"user":"flavioh_a",
+"log":"18-33-6 18-6-2021",
+"group":"STFDIGITAL"
+}

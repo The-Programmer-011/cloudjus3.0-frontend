@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"taipei",
+"host":10,
+"disk":1,
+"template":5,
+"pasta":5,
+"cpu":2,
+"ram":12288,
+"user":"frederico.pereira_a",
+"log":"14-33-25 4-11-2021",
+"group":"SIABD"
+}

@@ -1,0 +1,13 @@
+{
+"operation":1,
+"permission":1,
+"vm":"TESTE_DIGITAL",
+"host":8,
+"disk":2,
+"template":1,
+"cpu":1,
+"ram":2048,
+"user":"gabriel.diogenes_a",
+"log":"21-34-3 3-10-2019",
+"group":"STFDIGITAL"
+}

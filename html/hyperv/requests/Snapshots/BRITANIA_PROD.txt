@@ -1,0 +1,39 @@
+
+
+SnapshotType                : Standard
+VMId                        : 255c04de-1931-4795-82ec-fd24aa12b885
+VMName                      : BRITANIA_PROD
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua2
+Id                          : b9c5cff5-cfe3-4fd6-8d92-b8e4ac9f6555
+Name                        : 1.0(19-13-12 4-5-2018)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume2\VM\BRITANIA_PROD
+CreationTime                : 04/05/2018 16:15:17
+IsClustered                 : True
+SizeOfSystemFiles           : 47866
+ParentSnapshotId            : 
+ParentSnapshotName          : 
+MemoryStartup               : 2684354560
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 2684354560
+ProcessorCount              : 2
+RemoteFxAdapter             : 
+NetworkAdapters             : {Network Adapter}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0, Hard Drive on SCSI controller 
+                              number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+
+
+

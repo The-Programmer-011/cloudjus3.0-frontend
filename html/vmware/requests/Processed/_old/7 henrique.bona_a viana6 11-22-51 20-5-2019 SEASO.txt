@@ -1,0 +1,7 @@
+{
+"operation":7,
+"vm":"viana6",
+"user":"henrique.bona_a",
+"log":"11-22-51 20-5-2019",
+"group":"SEASO"
+}

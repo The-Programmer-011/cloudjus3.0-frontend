@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"dirazd",
+"host":11,
+"disk":4,
+"template":1,
+"pasta":10,
+"cpu":1,
+"ram":4096,
+"user":"juarez.paulino_a",
+"log":"19-21-16 24-2-2021",
+"group":"SIABD"
+}

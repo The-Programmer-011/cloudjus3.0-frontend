@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"camello_teste2",
+"host":12,
+"disk":10,
+"template":1,
+"pasta":7,
+"cpu":1,
+"ram":2048,
+"user":"gabriel.diogenes_a",
+"log":"22-26-26 4-10-2019",
+"group":"STFDIGITAL"
+}

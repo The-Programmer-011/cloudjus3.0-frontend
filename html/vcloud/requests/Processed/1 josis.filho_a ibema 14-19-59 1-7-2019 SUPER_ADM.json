@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"ibema",
+"host":5,
+"disk":1,
+"template":4,
+"pasta":8,
+"cpu":1,
+"ram":1024,
+"user":"josis.filho_a",
+"log":"14-19-59 1-7-2019",
+"group":"SUPER_ADM"
+}

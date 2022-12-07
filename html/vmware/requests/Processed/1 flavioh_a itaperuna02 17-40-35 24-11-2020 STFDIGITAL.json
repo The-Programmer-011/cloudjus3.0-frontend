@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"itaperuna02",
+"host":9,
+"disk":3,
+"template":2,
+"pasta":5,
+"cpu":1,
+"ram":8192,
+"user":"flavioh_a",
+"log":"17-40-35 24-11-2020",
+"group":"STFDIGITAL"
+}

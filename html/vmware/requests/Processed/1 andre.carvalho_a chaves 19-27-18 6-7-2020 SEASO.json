@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"chaves",
+"host":7,
+"disk":12,
+"template":1,
+"pasta":13,
+"cpu":1,
+"ram":8192,
+"user":"andre.carvalho_a",
+"log":"19-27-18 6-7-2020",
+"group":"SEASO"
+}

@@ -1,0 +1,4 @@
+Version 2.9.2
+News:
+
+Titulos consertados nas páginas de remoção de vms em bloco

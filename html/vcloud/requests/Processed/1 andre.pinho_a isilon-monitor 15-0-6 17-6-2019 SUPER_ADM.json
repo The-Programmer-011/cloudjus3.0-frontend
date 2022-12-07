@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"isilon-monitor",
+"host":16,
+"disk":1,
+"template":2,
+"pasta":3,
+"cpu":2,
+"ram":4096,
+"user":"andre.pinho_a",
+"log":"15-0-6 17-6-2019",
+"group":"SUPER_ADM"
+}

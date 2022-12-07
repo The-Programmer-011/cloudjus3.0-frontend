@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"marselha",
+"host":11,
+"disk":6,
+"template":1,
+"pasta":13,
+"cpu":2,
+"ram":12288,
+"user":"andre.carvalho_a",
+"log":"18-56-27 4-9-2020",
+"group":"SEASO"
+}

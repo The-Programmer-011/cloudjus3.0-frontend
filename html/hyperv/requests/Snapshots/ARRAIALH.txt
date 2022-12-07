@@ -1,0 +1,170 @@
+
+
+SnapshotType                : Standard
+VMId                        : b460f286-d388-4499-a328-c4a8369bfa77
+VMName                      : ARRAIALH
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua2
+Id                          : a789e312-88b7-4e0f-8d47-75baed72e24d
+Name                        : Antes de migrar para 6.4.14(11-22-31 11-5-2018)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume2\VM\ARRAIALH
+CreationTime                : 11/05/2018 11:22:16
+IsClustered                 : True
+SizeOfSystemFiles           : 42708
+ParentSnapshotId            : 
+ParentSnapshotName          : 
+MemoryStartup               : 4294967296
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 4294967296
+ProcessorCount              : 3
+RemoteFxAdapter             : 
+NetworkAdapters             : {Network Adapter}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : b460f286-d388-4499-a328-c4a8369bfa77
+VMName                      : ARRAIALH
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua2
+Id                          : 3b77adae-f729-479f-9f5c-845bff0b4cfa
+Name                        : Antes de instalar a 6.3.1(13-58-46 7-8-2018)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume2\VM\ARRAIALH
+CreationTime                : 07/08/2018 13:59:12
+IsClustered                 : True
+SizeOfSystemFiles           : 42708
+ParentSnapshotId            : a789e312-88b7-4e0f-8d47-75baed72e24d
+ParentSnapshotName          : Antes de migrar para 6.4.14(11-22-31 11-5-2018)
+MemoryStartup               : 4294967296
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 4294967296
+ProcessorCount              : 3
+RemoteFxAdapter             : 
+NetworkAdapters             : {Network Adapter}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : b460f286-d388-4499-a328-c4a8369bfa77
+VMName                      : ARRAIALH
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua2
+Id                          : c37ef802-feea-4081-815a-d8acdd0ce4e6
+Name                        : Antes de migrar para 6.4.14(15-8-13 7-8-2018)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume2\VM\ARRAIALH
+CreationTime                : 07/08/2018 15:08:03
+IsClustered                 : True
+SizeOfSystemFiles           : 42708
+ParentSnapshotId            : 3b77adae-f729-479f-9f5c-845bff0b4cfa
+ParentSnapshotName          : Antes de instalar a 6.3.1(13-58-46 7-8-2018)
+MemoryStartup               : 4294967296
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 4294967296
+ProcessorCount              : 3
+RemoteFxAdapter             : 
+NetworkAdapters             : {Network Adapter}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : b460f286-d388-4499-a328-c4a8369bfa77
+VMName                      : ARRAIALH
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua2
+Id                          : db4a9fb6-bf8b-412a-af2e-fb0b22929e72
+Name                        : antes_atualizacao_jira_8.4.2(18-49-8-12-10-2019)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume2\VM\ARRAIALH
+CreationTime                : 12/10/2019 15:49:34
+IsClustered                 : True
+SizeOfSystemFiles           : 42708
+ParentSnapshotId            : c37ef802-feea-4081-815a-d8acdd0ce4e6
+ParentSnapshotName          : Antes de migrar para 6.4.14(15-8-13 7-8-2018)
+MemoryStartup               : 9126805504
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 9126805504
+ProcessorCount              : 4
+RemoteFxAdapter             : 
+NetworkAdapters             : {Network Adapter}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : b460f286-d388-4499-a328-c4a8369bfa77
+VMName                      : ARRAIALH
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua2
+Id                          : 9da26cd7-c63f-4375-9477-7edc372d8058
+Name                        : antes_atualizacao_jira_8.4.2(17-31-1-23-10-2019)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume2\VM\ARRAIALH
+CreationTime                : 23/10/2019 14:34:14
+IsClustered                 : True
+SizeOfSystemFiles           : 42708
+ParentSnapshotId            : db4a9fb6-bf8b-412a-af2e-fb0b22929e72
+ParentSnapshotName          : antes_atualizacao_jira_8.4.2(18-49-8-12-10-2019)
+MemoryStartup               : 9126805504
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 9126805504
+ProcessorCount              : 4
+RemoteFxAdapter             : 
+NetworkAdapters             : {Network Adapter}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+
+
+

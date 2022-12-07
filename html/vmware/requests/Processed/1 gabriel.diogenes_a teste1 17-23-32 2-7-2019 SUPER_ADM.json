@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"teste1",
+"host":12,
+"disk":10,
+"template":1,
+"pasta":7,
+"cpu":1,
+"ram":2048,
+"user":"gabriel.diogenes_a",
+"log":"17-23-32 2-7-2019",
+"group":"SUPER_ADM"
+}

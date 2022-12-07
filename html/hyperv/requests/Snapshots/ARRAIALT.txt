@@ -1,0 +1,345 @@
+
+
+SnapshotType                : Standard
+VMId                        : b054d895-8554-4560-a891-6b68e9c33b38
+VMName                      : ARRAIALT
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua2
+Id                          : 84d6684c-316a-4d34-874f-62f0a89e58b5
+Name                        : Antesdemigrarpara6.4.14(59-57-13-4-2018)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume3\VM\ARRAIALT
+CreationTime                : 13/04/2018 15:01:07
+IsClustered                 : True
+SizeOfSystemFiles           : 49676
+ParentSnapshotId            : 
+ParentSnapshotName          : 
+MemoryStartup               : 6442450944
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 6442450944
+ProcessorCount              : 1
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0, Hard Drive on SCSI controller 
+                              number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : b054d895-8554-4560-a891-6b68e9c33b38
+VMName                      : ARRAIALT
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua2
+Id                          : 6466ed02-fef8-49c1-84a4-7f7e3b4f5669
+Name                        : AntesdecomeÃ§araimportarosprojetos7.8.2(37-32-13-4-2018)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume3\VM\ARRAIALT
+CreationTime                : 13/04/2018 16:38:30
+IsClustered                 : True
+SizeOfSystemFiles           : 49676
+ParentSnapshotId            : 84d6684c-316a-4d34-874f-62f0a89e58b5
+ParentSnapshotName          : Antesdemigrarpara6.4.14(59-57-13-4-2018)
+MemoryStartup               : 6442450944
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 6442450944
+ProcessorCount              : 1
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0, Hard Drive on SCSI controller 
+                              number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : b054d895-8554-4560-a891-6b68e9c33b38
+VMName                      : ARRAIALT
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua2
+Id                          : 01d63f54-6567-451b-bc6b-1b0696fd6d69
+Name                        : Antesdemigrarpara7.0.0(19-28-16-4-2018)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume3\VM\ARRAIALT
+CreationTime                : 16/04/2018 16:20:09
+IsClustered                 : True
+SizeOfSystemFiles           : 49676
+ParentSnapshotId            : 6466ed02-fef8-49c1-84a4-7f7e3b4f5669
+ParentSnapshotName          : AntesdecomeÃ§araimportarosprojetos7.8.2(37-32-13-4-2018)
+MemoryStartup               : 6442450944
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 6442450944
+ProcessorCount              : 1
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0, Hard Drive on SCSI controller 
+                              number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : b054d895-8554-4560-a891-6b68e9c33b38
+VMName                      : ARRAIALT
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua2
+Id                          : 35a9d84e-d15f-44fa-a198-3bb133f637b6
+Name                        : Antesdemigrarpara7.9.0(0-55-17-4-2018)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume3\VM\ARRAIALT
+CreationTime                : 17/04/2018 15:01:37
+IsClustered                 : True
+SizeOfSystemFiles           : 49676
+ParentSnapshotId            : 01d63f54-6567-451b-bc6b-1b0696fd6d69
+ParentSnapshotName          : Antesdemigrarpara7.0.0(19-28-16-4-2018)
+MemoryStartup               : 6442450944
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 6442450944
+ProcessorCount              : 1
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0, Hard Drive on SCSI controller 
+                              number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : b054d895-8554-4560-a891-6b68e9c33b38
+VMName                      : ARRAIALT
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua2
+Id                          : d087612a-1aee-4b62-8db1-6b150d768861
+Name                        : Antes de migrar para 6.4.14(18-17-43 20-4-2018)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume3\VM\ARRAIALT
+CreationTime                : 20/04/2018 18:18:05
+IsClustered                 : True
+SizeOfSystemFiles           : 49676
+ParentSnapshotId            : 35a9d84e-d15f-44fa-a198-3bb133f637b6
+ParentSnapshotName          : Antesdemigrarpara7.9.0(0-55-17-4-2018)
+MemoryStartup               : 6442450944
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 6442450944
+ProcessorCount              : 1
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0, Hard Drive on SCSI controller 
+                              number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : b054d895-8554-4560-a891-6b68e9c33b38
+VMName                      : ARRAIALT
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua2
+Id                          : d0875ad9-7af6-4310-bd24-951d8c8b9cb1
+Name                        : Antes de migrar para 7.0.0(16-6-48 23-4-2018)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume3\VM\ARRAIALT
+CreationTime                : 23/04/2018 16:06:42
+IsClustered                 : True
+SizeOfSystemFiles           : 49676
+ParentSnapshotId            : d087612a-1aee-4b62-8db1-6b150d768861
+ParentSnapshotName          : Antes de migrar para 6.4.14(18-17-43 20-4-2018)
+MemoryStartup               : 6442450944
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 6442450944
+ProcessorCount              : 1
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0, Hard Drive on SCSI controller 
+                              number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : b054d895-8554-4560-a891-6b68e9c33b38
+VMName                      : ARRAIALT
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua2
+Id                          : 8750565a-518a-4b6f-a74a-ed994fafb688
+Name                        : Antes de migrar para 7.9.0(13-54-14 24-4-2018)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume3\VM\ARRAIALT
+CreationTime                : 24/04/2018 13:54:19
+IsClustered                 : True
+SizeOfSystemFiles           : 49676
+ParentSnapshotId            : d0875ad9-7af6-4310-bd24-951d8c8b9cb1
+ParentSnapshotName          : Antes de migrar para 7.0.0(16-6-48 23-4-2018)
+MemoryStartup               : 6442450944
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 6442450944
+ProcessorCount              : 1
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0, Hard Drive on SCSI controller 
+                              number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : b054d895-8554-4560-a891-6b68e9c33b38
+VMName                      : ARRAIALT
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua2
+Id                          : 85af8235-825e-423d-b5fe-0adb8b26da00
+Name                        : antesdeatualizaroJirapro8.0.2(18-19-26-12-3-2019)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume3\VM\ARRAIALT
+CreationTime                : 12/03/2019 18:19:41
+IsClustered                 : True
+SizeOfSystemFiles           : 49676
+ParentSnapshotId            : 8750565a-518a-4b6f-a74a-ed994fafb688
+ParentSnapshotName          : Antes de migrar para 7.9.0(13-54-14 24-4-2018)
+MemoryStartup               : 9126805504
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 9126805504
+ProcessorCount              : 4
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0, Hard Drive on SCSI controller 
+                              number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : b054d895-8554-4560-a891-6b68e9c33b38
+VMName                      : ARRAIALT
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua2
+Id                          : d700c306-2376-4fe2-b683-3a11b6910115
+Name                        : antes_atualizacao_jira_8.4.2(12-53-21-12-10-2019)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume3\VM\ARRAIALT
+CreationTime                : 12/10/2019 09:56:36
+IsClustered                 : True
+SizeOfSystemFiles           : 49676
+ParentSnapshotId            : 85af8235-825e-423d-b5fe-0adb8b26da00
+ParentSnapshotName          : antesdeatualizaroJirapro8.0.2(18-19-26-12-3-2019)
+MemoryStartup               : 9126805504
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 9126805504
+ProcessorCount              : 4
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0, Hard Drive on SCSI controller 
+                              number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+SnapshotType                : Standard
+VMId                        : b054d895-8554-4560-a891-6b68e9c33b38
+VMName                      : ARRAIALT
+State                       : Off
+Key                         : Microsoft.HyperV.PowerShell.SnapshotObjectKey
+IsDeleted                   : False
+ComputerName                : jaragua2
+Id                          : 739b4bad-1ded-4d97-b5f7-18f5764e3911
+Name                        : antes_export_jira_producao_20191015(17-56-1-15-10-2019)
+Version                     : 5.0
+Notes                       : 
+Generation                  : 1
+Path                        : C:\ClusterStorage\Volume3\VM\ARRAIALT
+CreationTime                : 15/10/2019 14:59:26
+IsClustered                 : True
+SizeOfSystemFiles           : 49676
+ParentSnapshotId            : d700c306-2376-4fe2-b683-3a11b6910115
+ParentSnapshotName          : antes_atualizacao_jira_8.4.2(12-53-21-12-10-2019)
+MemoryStartup               : 9126805504
+DynamicMemoryEnabled        : True
+MemoryMinimum               : 536870912
+MemoryMaximum               : 9126805504
+ProcessorCount              : 4
+RemoteFxAdapter             : 
+NetworkAdapters             : {Adaptador de Rede}
+FibreChannelHostBusAdapters : {}
+ComPort1                    : Microsoft.HyperV.PowerShell.VMComPort
+ComPort2                    : Microsoft.HyperV.PowerShell.VMComPort
+FloppyDrive                 : Microsoft.HyperV.PowerShell.VMFloppyDiskDrive
+DVDDrives                   : {DVD Drive on IDE controller number 1 at location 0}
+HardDrives                  : {Hard Drive on IDE controller number 0 at location 0, Hard Drive on SCSI controller 
+                              number 0 at location 0}
+VMIntegrationService        : {Time Synchronization, Heartbeat, Key-Value Pair Exchange, Shutdown...}
+
+
+
+

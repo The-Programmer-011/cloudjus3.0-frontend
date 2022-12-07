@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"rondon",
+"host":20,
+"disk":1,
+"template":10,
+"pasta":8,
+"cpu":4,
+"ram":32768,
+"user":"raphael.sena_a",
+"log":"17-40-41 4-10-2022",
+"group":"SUPER_ADM"
+}

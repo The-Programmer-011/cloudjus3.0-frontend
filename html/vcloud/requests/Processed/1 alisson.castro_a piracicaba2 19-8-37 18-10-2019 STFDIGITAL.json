@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"piracicaba2",
+"host":6,
+"disk":1,
+"template":2,
+"pasta":2,
+"cpu":2,
+"ram":12288,
+"user":"alisson.castro_a",
+"log":"19-8-37 18-10-2019",
+"group":"STFDIGITAL"
+}

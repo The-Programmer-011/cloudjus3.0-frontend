@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"britaniap3",
+"host":13,
+"disk":1,
+"template":4,
+"pasta":3,
+"cpu":1,
+"ram":4096,
+"user":"gabriel.diogenes_a",
+"log":"18-23-1 21-8-2019",
+"group":"SUPER_ADM"
+}

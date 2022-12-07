@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"teste888",
+"host":3,
+"disk":1,
+"template":5,
+"pasta":2,
+"cpu":2,
+"ram":16384,
+"user":"izaias.filho_a",
+"log":"22-23-30 4-5-2021",
+"group":"SUPER_ADM"
+}

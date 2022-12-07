@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"testevenicio2",
+"host":8,
+"disk":14,
+"template":2,
+"pasta":7,
+"cpu":4,
+"ram":8192,
+"user":"venicio.silva_a",
+"log":"18-40-47 28-2-2020",
+"group":"SUPER_ADM"
+}

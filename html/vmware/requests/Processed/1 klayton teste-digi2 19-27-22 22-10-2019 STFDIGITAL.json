@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"teste-digi2",
+"host":12,
+"disk":10,
+"template":1,
+"pasta":5,
+"cpu":1,
+"ram":2048,
+"user":"klayton",
+"log":"19-27-22 22-10-2019",
+"group":"STFDIGITAL"
+}

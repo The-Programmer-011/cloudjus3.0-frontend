@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"capitolioq3",
+"host":12,
+"disk":23,
+"template":1,
+"pasta":5,
+"cpu":1,
+"ram":8192,
+"user":"geancarlo.vinhal_a",
+"log":"18-19-45 19-6-2019",
+"group":"STFDIGITAL"
+}

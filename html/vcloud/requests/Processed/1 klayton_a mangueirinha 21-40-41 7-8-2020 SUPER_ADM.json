@@ -1,0 +1,14 @@
+{
+"operation":1,
+"permission":1,
+"vm":"mangueirinha",
+"host":17,
+"disk":1,
+"template":5,
+"pasta":3,
+"cpu":1,
+"ram":4096,
+"user":"klayton_a",
+"log":"21-40-41 7-8-2020",
+"group":"SUPER_ADM"
+}
